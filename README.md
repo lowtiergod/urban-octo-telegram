@@ -1,1 +1,1 @@
-# Code Refactor Starter Code
+Horiseon refactored project with updated accessibility requirements.
